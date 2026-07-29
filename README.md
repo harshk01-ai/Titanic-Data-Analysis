@@ -10,8 +10,6 @@ This project performs data cleaning, feature engineering, exploratory data analy
 - Python
 - Pandas
 - NumPy
-- Matplotlib
-- Seaborn
 - Jupyter Notebook / Kaggle Notebook
 
 ## 📊 Tasks Performed
